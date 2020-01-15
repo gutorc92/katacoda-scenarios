@@ -1,0 +1,1 @@
+O intuito desse curso é ensinar o básico de programação para uma pessoa que não teve oportunidades de aprender sobre esse tema.
