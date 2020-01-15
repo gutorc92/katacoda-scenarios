@@ -1,7 +1,7 @@
-This is your first step.
+Esse é o primeiro passo.
 
-## Task
+## Tarefa
 
-This is an _example_ of creating a scenario and running a **command**
+Esse é um exemplo de como rodar um program **command**
 
-`echo 'Hello World'`{{execute}}
+`print('Hello World')`{{execute}}

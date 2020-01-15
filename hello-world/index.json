@@ -1,11 +1,11 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Introdução ao python",
+  "description": "Uma breve introdução a linguagem python",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Passo 1 - Run Command",
       "text": "step1.md"
     }],
     "intro": {
