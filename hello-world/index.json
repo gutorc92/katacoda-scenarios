@@ -11,6 +11,9 @@
       }
     ]
   },
+  "files": [
+    "app.py"
+  ],
   "details": {
     "steps": [{
       "title": "Passo 1 - Run Command",
