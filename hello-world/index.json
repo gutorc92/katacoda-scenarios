@@ -15,10 +15,16 @@
     "app.py"
   ],
   "details": {
-    "steps": [{
-      "title": "Passo 1 - Run Command",
-      "text": "step1.md"
-    }],
+    "steps": [
+      {
+        "title": "Passo 1 - Printando na tela",
+        "text": "step1.md"
+      },
+      {
+        "title": "Passo 2 - Declarando a primeira variável",
+        "text": "step2.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
       "credits": ""
