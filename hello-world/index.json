@@ -3,6 +3,14 @@
   "description": "Uma breve introdução a linguagem python",
   "difficulty": "beginner",
   "time": "2 minutes",
+  "assets": {
+    "client": [
+      {
+        "file": "app.py",
+        "target": "~/"
+      }
+    ]
+  },
   "details": {
     "steps": [{
       "title": "Passo 1 - Run Command",
