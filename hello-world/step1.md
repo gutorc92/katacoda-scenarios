@@ -6,8 +6,9 @@ O comando mais simples e mais poderoso da programação é o "printar", ou seja,
 mostrar saídas para o usuário.
 
 <pre class="file" data-filename="app.py" data-target="replace">
-print('Olá, mundo.')
+print('Ola, mundo.')
 </pre>
+
 
 `python app.py`{{execute}}
 
