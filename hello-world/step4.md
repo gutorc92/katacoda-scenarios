@@ -10,7 +10,7 @@ total_divisao = total_multiplicacao / 5
 total_potenciacao = 3**3
 print('A soma resultou em: ', total)
 print('A subtracao resultou em: ', total_subtracao)
-print('A multiplicação resultou em: ', total_multiplicacao)
+print('A multiplicacao resultou em: ', total_multiplicacao)
 print('A divisao resultou em: ', total_divisao)
 print('A potenciacao resultou em: ', total_potenciacao)
 
